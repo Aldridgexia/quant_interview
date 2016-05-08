@@ -1,0 +1,1 @@
+// Q21. What is encapsulation?
